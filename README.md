@@ -22,7 +22,7 @@ A modern React application built with Vite and styled with Tailwind CSS, featuri
    npm install
    npm run dev
 
-   EXPLORER_REACT/
+ EXPLORER_REACT/
 ├── public/              # Static assets
 ├── src/
 │   ├── assets/          # Images and other media
