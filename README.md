@@ -3,13 +3,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-A modern React application built with Vite and styled with Tailwind CSS, featuring interactive UI components and responsive design.
+A modern React application built with Vite and styled with Tailwind CSS, featuring interactive UI components .
 
 ## Features
 
 - ⚡ **Blazing Fast** - Built with Vite for optimal performance
 - 🎨 **Tailwind CSS** - Utility-first styling for rapid UI development
-- 📱 **Fully Responsive** - Works on all device sizes
 - ✨ **Interactive Components** - Engaging user interface elements
 - 🔥 **Modern React** - Utilizing the latest React features
 
