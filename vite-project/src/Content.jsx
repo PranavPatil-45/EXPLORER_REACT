@@ -12,7 +12,7 @@ function Content(){
       <h2>$18</h2>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium molestiae laborum natus eum repellat, vel fugit. Illum veniam possimus esse at cumque neque porro repudiandae ut a, totam, amet facere!</p>
       <button className="btn  btn-primary" style={{border:"1px solid black",height:"40px",width:"120px",borderRadius:"10px",}}>Add To Cart</button>
-       <button style={{border:"1px solid black",backgroundColor:"white",height:"40px",width:"120px",marginLeft:"5%",borderRadius:"10px"}}>Wishlist</button>
+       <button className="btn btn-success" style={{border:"1px solid black",height:"40px",width:"120px",marginLeft:"5%",borderRadius:"10px"}}>Wishlist</button>
     </div></div>
     )
 }
